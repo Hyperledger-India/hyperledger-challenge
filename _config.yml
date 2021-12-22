@@ -1,0 +1,27 @@
+# serve the site using this theme
+remote_theme: swcool/landing-page-theme
+
+title: "Hyperledger Challenge 2022"
+logo: "hyperledger-logo.png"
+email: hyperledger.india.chapter@gmail.com
+improve_content: https://github.com/Hyperledger-India/hyperledger-challenge
+
+description: > # this means to ignore newlines until "email:"
+   A long running challenge run by Hyperledger communities. More details in cooking!
+
+copyright: 'Copyright &copy; 2022 Hyperledger Community. All Rights Reserved.'
+credits: 'Credits: Page is created from markdown files at <a href="https://github.com/Hyperledger-India/hyperledger-challenge">Hyperledger Challenge</a> repository.'
+
+markdown: kramdown
+permalink: pretty
+
+social:
+  - title: twitter
+    url: https://twitter.com/hyperledger
+  - title: github
+    url: https://github.com/Hyperledger-India/hyperledger-challenge
+  - title: linkedin
+    url: https://www.linkedin.com/company/30259394/
+
+plugins:
+  - jekyll-remote-theme
