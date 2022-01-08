@@ -2,7 +2,7 @@
 layout: default
 img: hyperledger-logo.png
 category: Services
-title: Challenge Round 1:<br>Ideate
+title: Challenge Round 1: Ideate
 description: |
 ---
 Innovators IDENTIFY a concept that advances the current state-of-the-art of enterprise-grade distributed ledger technologies leveraging one or more Hyperledger projects. The proposed concept must clearly articulate a solution-market fit where the solution fulfills a market need.
