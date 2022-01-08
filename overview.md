@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Overview | Hyperledger Challenge"
 permalink: /about/overview
 ---
