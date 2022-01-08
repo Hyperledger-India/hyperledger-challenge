@@ -2,10 +2,10 @@
 layout: default
 img: hyperledger-logo.png
 category: Services
-title: Challenge Round 3: Launch
+title: Challenge Round 3:<br/> Launch
 description: |
 ---
-*Innovators COLLABORATE to build* an ecosystem around their software solutions. Innovators will be evaluated based on the impact of their solution for successful commercial adoption.
+**Innovators COLLABORATE to build** an ecosystem around their software solutions. Innovators will be evaluated based on the impact of their solution for successful commercial adoption.
 
 ### Prizes
 *    Winners of the Launch challenge will receive a travel scholarship to attend Hyperledger Global Forum 2022. This will be an unique opportunity to demonstrate your solutions before a global community.
