@@ -5,7 +5,7 @@ category: Services
 title: Challenge Round 1: Ideate
 description: |
 ---
-Innovators IDENTIFY a concept that advances the current state-of-the-art of enterprise-grade distributed ledger technologies leveraging one or more Hyperledger projects. The proposed concept must clearly articulate a solution-market fit where the solution fulfills a market need.
+*Innovators IDENTIFY a concept* that advances the current state-of-the-art of enterprise-grade distributed ledger technologies leveraging one or more Hyperledger projects. The proposed concept must clearly articulate a solution-market fit where the solution fulfills a market need.
 
 ### Prizes
 Participants in the ideate phase will be given feedback on their submission, access to training courses, and matched with mentor(s) based on the identified need to support the development of their prototype solution.
