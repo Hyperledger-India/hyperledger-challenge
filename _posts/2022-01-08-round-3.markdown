@@ -1,7 +1,7 @@
 ---
 layout: default
 img: hyperledger-logo.png
-category: Services
+category: Challenge
 title: Challenge Round 3:<br/> Launch
 description: |
 ---
