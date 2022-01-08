@@ -2,7 +2,7 @@
 layout: default
 img: hyperledger-logo.png
 category: Services
-title: Challenge Round 1: Prototype
+title: Challenge Round 2: Prototype
 description: |
 ---
 *Innovators DEVELOP to prototype* their proposed solution that sufficiently proves the critical functionality. The prototype must sufficiently demonstrate that the solution will fulfill a market need that sustains its follow-on development.
