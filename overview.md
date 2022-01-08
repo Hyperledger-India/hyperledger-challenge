@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Overview | Hyperledger Challenge"
-permalink: about/overview
+permalink: //about/overview
 ---
 
 # Overview
