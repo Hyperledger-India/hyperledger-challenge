@@ -1,0 +1,40 @@
+title: Hyperledger Challenge 2022
+description: > # this means to ignore newlines until "baseurl:"
+  The Hyperledger community is launching the Hyperledger Challenge to harness
+  the power of communities to ideate, develop, and launch innovative solutions
+  developed using open-source technologies. Any innovation that advances the
+  current state-of-the-art of enterprise-grade distributed ledger technologies
+  leveraging one or more Hyperledger projects is eligible for the Hyperledger
+  Challenge. Innovators competing in the challenges will have access to
+  training, mentors and the Hyperledger community to support the development of
+  their solution. The Hyperledger community is committed to be a driving force
+  to incorporating Diversity, Civility, and Inclusion into programs.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://challenge.hyperledger.org" # the base hostname & protocol for your site
+
+logo: "../css/2022_style/img/icon-large.png"
+
+social: 
+  name: Hyperledger Challenge 2022
+  link: "https://wiki.hyperledger.org/display/events/Hyperledger+Challenge+2022"
+
+# google_site_verification:
+
+include: ['_2022_pages']
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: wiki
+    url: https://wiki.hyperledger.org/display/events/Hyperledger+Challenge+2022
+  - title: LinkedIn
+    url: https://www.linkedin.com/company/30259394/
+  - title: twitter
+    url: https://twitter.com/hyperledger
+
+# Build settings
+markdown: kramdown
+permalink: pretty
