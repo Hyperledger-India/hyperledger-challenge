@@ -1,0 +1,12 @@
+---
+title: Erik Valiquette
+name: Erik Valiquette
+subtitle: CEO at Blockchain Supply Chain Association
+layout: 2022_default
+modal-id: 6
+img: Erik.jpeg
+thumbnail: Erik.jpeg
+alt: Picture of Erik Valiquette
+topic: Hyperledger Challenge 2022 Organizer
+description: CEO at Blockchain Supply Chain Association
+---

@@ -1,0 +1,12 @@
+---
+title: Nancy Min
+name: Nancy Min
+subtitle: Founder @ ecoLong
+layout: 2022_default
+modal-id: 6
+img: NancyMin.jpeg
+thumbnail: NancyMin.jpeg
+alt: Picture of Nancy Min
+topic: Hyperledger Challenge 2022 Organizer
+description: Chair, Hyperledger Social Impact SIG
+---

@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://challenge.hyperledger.org" # the base hostname & protocol for your site
 
-logo: "../css/2022_style/img/icon-large.png"
+logo: "/css/2022_style/img/icon-large.png"
 
 social: 
   name: Hyperledger Challenge 2022
@@ -28,12 +28,13 @@ plugins:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: wiki
-    url: https://wiki.hyperledger.org/display/events/Hyperledger+Challenge+2022
-  - title: LinkedIn
-    url: https://www.linkedin.com/company/30259394/
+  - title: linkedin
+    url: https://www.linkedin.com/company/hyperledger-project/
   - title: twitter
     url: https://twitter.com/hyperledger
+
+exclude:
+  - "README.md"
 
 # Build settings
 markdown: kramdown

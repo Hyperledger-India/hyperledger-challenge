@@ -1,0 +1,12 @@
+---
+title: Arun S M
+name: Arun S M
+subtitle: Staff Software Engineer, Walmart Global Tech India
+layout: 2022_default
+modal-id: 6
+img: ArunSM.jpeg
+thumbnail: ArunSM.jpeg
+alt: Picture of Arun S M
+topic: Hyperledger Challenge 2022 Organizer
+description: Member, Hyperledger Technical Steering Committee & Co-lead, Hyperledger India Chapter
+---

@@ -1,0 +1,12 @@
+---
+title: Andrea Frosinini
+name: Andrea Frosinini
+subtitle: Member of The Board Of Advisors at TOTTA
+layout: 2022_default
+modal-id: 6
+img: Andrea.jpeg
+thumbnail: Andrea.jpeg
+alt: Picture of Andrea Frosinini
+topic: Hyperledger Challenge 2022 Organizer
+description: Trans Oceanic Trade Tech Alliance (TOTTA) Pte Ltd
+---
