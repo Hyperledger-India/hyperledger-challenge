@@ -3,40 +3,42 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">We will do our best to answer your request as soon as possible. You may send us your request via <a href="https://www.facebook.com/malaysianstudentstechnologyconference">Facebook Message</a></h3>
+                    <h3 class="section-subheading text-muted">We will do our best to answer your request as soon as possible. You may send us your request via <a href="https://chat.hyperledger.org/channel/challenge">Rocket.Chat Message</a>.</h3>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <form name="sentMessage" id="contactForm" action="https://formspree.io/mssm.mstc2022@gmail.com" method="POST" novalidate>
+                    <form name="sentMessage" id="contactForm" action="https://docs.google.com/forms/d/e/1FAIpQLSctGr6v6QOsYZed4erKupaxryF9yhuy16r8BDkklPRTMq5kCg/formResponse?" method="POST" novalidate target="hidden_iframe" onsubmit="submitted=true;">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="control-group form-group">
-                                    <input type="text" class="form-control" name="name" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name."WW>
+                                    <input type="text" class="form-control" name="entry.1929287239" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name."WW>
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="control-group form-group">
-                                    <input type="email" class="form-control" name="_replyto" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
+                                    <input type="email" class="form-control" name="entry.1800104414" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="control-group form-group">
-                                    <input type="tel" class="form-control" name="phone" placeholder="Your Phone" id="phone" required data-validation-required-message="Please enter your phone number (optional).">
+                                    <input type="tel" class="form-control" name="entry.120298255" placeholder="Your Phone" id="phone" required data-validation-required-message="Please enter your phone number (optional).">
                                     <p class="help-block text-danger"></p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="control-group form-group">
-                                    <textarea class="form-control" name="message" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                                    <textarea class="form-control" name="entry.185074979" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>
                                     <p class="help-block text-danger"></p>
                                 </div>
                             </div>
                             <div class="clearfix"></div>
                             <div class="col-lg-12 text-center">
                                 <div id="success"></div>
-                                <button type="submit" value="Send" class="btn btn-xl">Send Message</button>
+                                <button type="submit" value="Send Message" class="btn btn-xl" onclick="this.form.submit(); this.disabled=true; this.value='Sent';"></button>
                             </div>
                         </div>
                     </form>
+                    <!-- block redirection -->
+                    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
                 </div>
             </div>
         </div>
