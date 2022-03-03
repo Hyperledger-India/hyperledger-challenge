@@ -1,4 +1,4 @@
-# Hyperledger Challengen 2022
+# Hyperledger Challenge 2022
 
 View the Rendered website at [Hyperledger Challenge 2022](https://challenge.hyperledger.org).
 
