@@ -7,79 +7,82 @@
                 <h3 class="section-subheading text-muted"></h3>
             </div>
         </div>
-        <div class="row">
+        <div class="row d-flex justify-content-between">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Organizers</h2>
-                <h3 class="section-subheading text-muted"></h3>
+                <!-- <h2 class="section-heading">Organizers</h2> -->
+                <h3 class="section-subheading text-muted">Organizers</h3>
             </div>
         </div>
         <div class="row">
             {% for post in site.categories.2022_organizers %}
                 <div class="col-md-4 col-sm-6 speakers-item">
-                    <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
-                        <div class="speakers-hover">
-                            <div class="speakers-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
+                    <!-- <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal"> -->
                         <img src="/css/2022_style/img/organizer/{{ post.thumbnail }}" class="img-responsive img-centered img-rounded" alt="">
-                    </a>
+                    
                     <div class="speakers-caption">
                         <h4>{{ post.title }}</h4>
                         <p class="text-muted">{{ post.subtitle }}</p>
                     </div>
+                    <div class="speakers-social ">
+                        <ul class="list-inline social-buttons">
+                            <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                            <li><a href="{{ network.url }}"><i class="fa fa-twitter"></i></a></li>
+                        </ul>
+                    </div>
                 </div>
             {% endfor %}
         </div>
-        <div class="row">
+        <div class="row d-flex justify-content-between">
             <div class="col-lg-12 text-center">
-                <h3 class="section-subheading">Hyperledger Challenge Champions</h3>
+                <h3 class="section-subheading text-muted">Hyperledger Challenge Champions</h3>
             </div>
         </div>
         <div class="row">
         {% for post in site.categories.2022_champions %}
             <div class="col-md-4 col-sm-6 speakers-item">
-                <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
-                    <div class="speakers-hover">
-                        <div class="speakers-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
-                        </div>
-                    </div>
+                <!-- <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal"> -->
                     <img src="/css/2022_style/img/team/{{ post.thumbnail }}" class="img-responsive img-centered img-rounded" alt="">
-                </a>
+                
                 <div class="speakers-caption">
                     <h4>{{ post.title }}</h4>
                     <p class="text-muted">{{ post.subtitle }}</p>
                 </div>
+                <div class="speakers-social ">
+                    <ul class="list-inline social-buttons">
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        <li><a href="{{ network.url }}"><i class="fa fa-twitter"></i></a></li>
+                    </ul>
+                </div>
             </div>
         {% endfor %}
         </div>
-        <div class="row">
+        <div class="row d-flex justify-content-between">
             <div class="col-lg-12 text-center">
-                <h3 class="section-subheading">Subject Matter Experts</h3>
+                <h3 class="section-subheading text-muted">Subject Matter Experts</h3>
             </div>
         </div>
         <div class="row">
         {% for post in site.categories.2022_smes %}
             <div class="col-md-4 col-sm-6 speakers-item">
-                <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
-                    <div class="speakers-hover">
-                        <div class="speakers-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
-                        </div>
-                    </div>
+                <!-- <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal"> -->
                     <img src="/css/2022_style/img/team/{{ post.thumbnail }}" class="img-responsive img-centered img-rounded" alt="">
-                </a>
+                
                 <div class="speakers-caption">
                     <h4>{{ post.title }}</h4>
                     <p class="text-muted">{{ post.subtitle }}</p>
                 </div>
+                <div class="speakers-social ">
+                    <ul class="list-inline social-buttons">
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        <li><a href="{{ network.url }}"><i class="fa fa-twitter"></i></a></li>
+                    </ul>
+                </div>
             </div>
         {% endfor %}
         </div>
-        <div class="row">
+        <div class="row d-flex justify-content-between">
             <div class="col-lg-12 text-center">
-                <h3 class="section-subheading">Mentors</h3>
+                <h3 class="section-subheading text-muted">Mentors</h3>
             </div>
         </div>
         <div class="row">
