@@ -36,6 +36,7 @@ social:
 exclude:
   - "README.md"
 
+google_analytics: G-8REKT375VS
 # Build settings
 markdown: kramdown
 permalink: pretty
