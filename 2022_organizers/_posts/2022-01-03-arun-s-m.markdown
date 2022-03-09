@@ -9,4 +9,6 @@ thumbnail: ArunSM.jpeg
 alt: Picture of Arun S M
 topic: Hyperledger Challenge 2022 Organizer
 description: Member, Hyperledger Technical Steering Committee & Co-lead, Hyperledger India Chapter
+twitter: https://twitter.com/hyperledger
+linkedin: https://www.linkedin.com/company/hyperledger-project/
 ---
