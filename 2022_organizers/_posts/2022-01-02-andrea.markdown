@@ -9,4 +9,6 @@ thumbnail: Andrea.jpeg
 alt: Picture of Andrea Frosinini
 topic: Hyperledger Challenge 2022 Organizer
 description: Trans Oceanic Trade Tech Alliance (TOTTA) Pte Ltd
+twitter: https://twitter.com/hyperledger
+linkedin: https://www.linkedin.com/company/hyperledger-project/
 ---
