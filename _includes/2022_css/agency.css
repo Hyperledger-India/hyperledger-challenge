@@ -104,6 +104,9 @@ aside.clients,
 .bg-light-gray {
     background-color: #f7f7f7;
 }
+aside .imgBox{
+    width:50%;
+}
 
 .bg-darkest-gray {
     background-color: #222;
@@ -668,6 +671,7 @@ section h3.section-subheading {
 
 
 /* Time line Ends */
+/* Sponsor */
 
 aside.clients img {
     margin: 50px auto;

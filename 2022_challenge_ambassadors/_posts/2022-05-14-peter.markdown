@@ -1,0 +1,14 @@
+---
+title: Peter Somogyvari
+name: Peter Somogyvari
+subtitle: Hyperledger Cactus Maintainer, Technology Architect
+layout: 2022_default
+modal-id: 6
+img: peter.png
+thumbnail: peter.png
+alt: Picture of Peter Somogyvari
+topic: 
+description: 
+twitter: https://twitter.com/PeterMetz_
+linkedin: https://www.linkedin.com/in/peter-somogyvari/
+---

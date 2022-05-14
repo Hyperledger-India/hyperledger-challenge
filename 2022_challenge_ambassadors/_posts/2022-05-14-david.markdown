@@ -1,0 +1,14 @@
+---
+title: David  Faulstich Reis
+name: David  Faulstich Reis
+subtitle: CTO - Founder @ 4 Wheels LTDA 
+layout: 2022_default
+modal-id: 6
+img: david.jpg
+thumbnail: david.jpg
+alt: Picture of David  Faulstich Reis 
+topic: 
+description: 
+twitter: 
+linkedin: https://www.linkedin.com/in/david-faulstich-reis/
+---
