@@ -10,6 +10,6 @@ alt: Picture of Nancy Min
 topic: Hyperledger Challenge 2022 Organizer
 description: Chair, Hyperledger Social Impact SIG
 twitter: https://twitter.com/hyperledger
-linkedin: https://www.linkedin.com/company/hyperledger-project/
+linkedin: https://www.linkedin.com/in/nancy-min-9b867750/
 
 ---

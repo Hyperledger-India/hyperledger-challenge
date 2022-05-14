@@ -96,61 +96,16 @@
 
         <div class="row d-flex justify-content-between">
             <div class="col-lg-12 text-center">
-                <h3 class="section-subheading text-muted">Subject Matter Experts</h3>
+                <h3 class="section-subheading text-muted">Challenge Ambassadors</h3>
             </div>
         </div>
         <div class="row row-cols-1 row-cols-xs-2 row-cols-sm-2 row-cols-lg-4 g-3">
-            {% for post in site.categories.2022_smes %}
+            {% for post in site.categories.2022_challenge_ambassadors %}
                 <div class="speaker col-md-4 col-sm-6">
                     <div class="card h-100 shadow-sm">
                         <div class="text-center">
                             <div class="img-box img-hover-zoom img-hover-zoom--colorize">
-                                <img src="/css/2022_style/img/team/{{ post.thumbnail }}" class="img-responsive img-centered img-rounded" alt="">
-                            </div>
-                        </div>
-                        <div class="card-body">
-                            <!-- <div class="clearfix mb-3">
-                            
-                            </div> -->
-                            <div class="title my-2 text-center">
-                                <h1>{{ post.title }}</h1>
-                            </div>
-                            <div class="mb-3">
-                                <h2 class="text-uppercase text-center role">{{ post.subtitle }}</h2>
-                            </div>
-                            <div class="box">
-                                <div>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item"><a href="{{ post.linkedin}}"><i class="fa fa-linkedin"></i></a></li>
-                                        <li class="list-inline-item"><a href="{{ post.twitter}}"><i class="fa fa-twitter"></i></a></li>
-                                        <!-- <li class="list-inline-item"><i class="fa fa-discord"></i></li> -->
-                                    </ul>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            {% endfor %}
-        </div>
-
-
-
-
-
-
-        <div class="row d-flex justify-content-between">
-            <div class="col-lg-12 text-center">
-                <h3 class="section-subheading text-muted">Mentors</h3>
-            </div>
-        </div>
-        <div class="row row-cols-1 row-cols-xs-2 row-cols-sm-2 row-cols-lg-4 g-3">
-            {% for post in site.categories.2022_mentors %}
-                <div class="speaker col-md-4 col-sm-6">
-                    <div class="card h-100 shadow-sm">
-                        <div class="text-center">
-                            <div class="img-box img-hover-zoom img-hover-zoom--colorize">
-                                <img src="/css/2022_style/img/team/{{ post.thumbnail }}" class="img-responsive img-centered img-rounded" alt="">
+                                <img src="/css/2022_style/img/ambassadors/{{post.thumbnail }}" class="img-responsive img-centered img-rounded" alt="">
                             </div>
                         </div>
                         <div class="card-body">

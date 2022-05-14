@@ -10,5 +10,5 @@ alt: Picture of Erik Valiquette
 topic: Hyperledger Challenge 2022 Organizer
 description: CEO at Blockchain Supply Chain Association
 twitter: https://twitter.com/hyperledger
-linkedin: https://www.linkedin.com/company/hyperledger-project/
+linkedin: https://www.linkedin.com/in/erikvaliquette/
 ---

@@ -9,4 +9,6 @@ thumbnail: HartMontgomery.jpeg
 alt: Hart's Photo
 topic: Hyperledger Indy/Aries Champion
 description: Hyperledger TSC member and Indy/Aries maintainer
+twitter: https://twitter.com/Hyperledger
+linkedin: https://www.linkedin.com/in/hartmontgomery/
 ---
