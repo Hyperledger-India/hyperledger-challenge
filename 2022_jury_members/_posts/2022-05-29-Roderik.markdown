@@ -1,0 +1,14 @@
+---
+title: Roderik van der Veer
+name: Roderik van der Veer
+subtitle: Founder & CTO at SettleMint, the #1 low code blockchain platform as a service
+layout: 2022_default
+modal-id: 6
+img: roderik.jpg
+thumbnail: roderik.jpg
+alt: Picture of Roderik van der Veer
+topic: Hyperledger Challenge 2022 Jury
+description: 
+twitter: https://twitter.com/SettleMintCom
+linkedin: https://www.linkedin.com/in/roderik/
+---

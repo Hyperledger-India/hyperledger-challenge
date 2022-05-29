@@ -1,7 +1,7 @@
 ---
 title: Vikram Sharma
 name: Vikram Sharma
-subtitle:  Solutions Architect + Hyperledger India Chapter & Hyperledger Noida Meetup Event Organizer
+subtitle:  Solutions Architect, Hyperledger India Chapter & Hyperledger Noida Meetup Event Organizer
 layout: 2022_default
 modal-id: 6
 img: vikram.png

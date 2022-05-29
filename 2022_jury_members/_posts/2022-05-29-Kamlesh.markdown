@@ -1,0 +1,14 @@
+---
+title: Kamlesh Nagware
+name: Kamlesh Nagware
+subtitle: CTO at Snapper Future Tech | Hyperledger TSC Member | Co-Lead Hyperledger India | Co-Chair IEEE Blockchain
+layout: 2022_default
+modal-id: 6
+img: kamlesh.jpg
+thumbnail: kamlesh.jpg
+alt: Picture of Kamlesh Nagware
+topic: 
+description: 
+twitter: https://twitter.com/KNagware
+linkedin: https://www.linkedin.com/in/kamlesh-nagware-1456094b/
+---

@@ -1,0 +1,14 @@
+---
+title: Alfonso Govela
+name: Alfonso Govela
+subtitle: Linux Foundation Mentor, Founding Member of Hyperledger Latinoamerica Regional Chapter
+layout: 2022_default
+modal-id: 6
+img: Alfonso.jpg
+thumbnail: Alfonso.jpg
+alt: Picture of Alfonso Govela
+topic: Hyperledger Challenge 2022 Organizer
+description: Founding Member of Hyperledger Latinoamerica Regional Chapter, Linux Foundation Mentor
+twitter: https://twitter.com/govela
+linkedin: https://www.linkedin.com/in/alfonsogovela/
+---

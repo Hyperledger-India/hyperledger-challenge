@@ -1,0 +1,14 @@
+---
+title: Ganesh Harinath
+name: Ganesh Harinath
+subtitle: Founder & CEO at Fiducia | AI - Web 3.0 Solutions for ESG & Brand Elevation
+layout: 2022_default
+modal-id: 6
+img: ganesh.jpg
+thumbnail: ganesh.jpg
+alt: Picture of Ganesh Harinath
+topic: Hyperledger Challenge 2022 Jury
+description: 
+twitter: https://twitter.com/HarinathGanesh
+linkedin: https://www.linkedin.com/in/ganeshharinath/
+---

@@ -1,0 +1,14 @@
+---
+title: Ali Dorri
+name: Ali Dorri
+subtitle: Cyber Security Analyst | CEH | AWS | Blockchain
+layout: 2022_default
+modal-id: 6
+img: ali_dorri.jpg
+thumbnail: ali_dorri.jpg
+alt: Picture of Ali Dorri
+topic: Hyperledger Challenge 2022 Jury
+description: 
+twitter: https://twitter.com/alidorri_ce
+linkedin: https://www.linkedin.com/in/ali-dorri/
+---
