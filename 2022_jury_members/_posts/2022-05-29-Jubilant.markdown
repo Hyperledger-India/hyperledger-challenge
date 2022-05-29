@@ -1,0 +1,14 @@
+---
+title: Dr Jubilant Kizhakkethottam
+name: Dr Jubilant Kizhakkethottam
+subtitle: Blockchain Researcher | Cyber law enthusiast | Social Network Analyst | Speaker
+layout: 2022_default
+modal-id: 6
+img: jubilant.jpg
+thumbnail: jubilant.jpg
+alt: Picture of Dr Jubilant Kizhakkethottam
+topic: Hyperledger Challenge 2022 Jury
+description: 
+twitter: https://twitter.com/Hyperledger
+linkedin: https://www.linkedin.com/in/dr-jubilant-kizhakkethottam-273a2517/
+---
